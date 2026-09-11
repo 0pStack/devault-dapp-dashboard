@@ -5,8 +5,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)
 ![Web3](https://img.shields.io/badge/-Web3-F16822?logo=web3dotjs&logoColor=white)
-[![Stars](https://img.shields.io/github/stars/0pFlow/devault-dapp-dashboard?style=flat)](https://github.com/0pFlow/devault-dapp-dashboard/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/0pFlow/devault-dapp-dashboard)](https://github.com/0pFlow/devault-dapp-dashboard/commits/main)
+[![Stars](https://img.shields.io/github/stars/0pStack/devault-dapp-dashboard?style=flat)](https://github.com/0pStack/devault-dapp-dashboard/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/0pStack/devault-dapp-dashboard)](https://github.com/0pStack/devault-dapp-dashboard/commits/main)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A responsive **HTML & CSS-only** demo of a dashboard UI for a decentralized application (dApp). There is no JavaScript and no real blockchain integration — this project focuses purely on layout, styling, accessibility, and visual presentation using dummy data.
@@ -42,7 +42,7 @@ No build tools, no frameworks, no JavaScript.
 Clone the repo and open `index.html` directly in any modern browser:
 
 ```bash
-git clone https://github.com/0pFlow/devault-dapp-dashboard.git
+git clone https://github.com/0pStack/devault-dapp-dashboard.git
 cd devault-dapp-dashboard
 ```
 
